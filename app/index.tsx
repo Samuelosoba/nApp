@@ -5,7 +5,7 @@ import React from "react";
 const Index = () => {
   return (
     <View style={styles.container}>
-      {/* <Image source={Logo} style={{ height: 24, width: 24 }} /> */}
+    
       <Text style={{ fontSize: 32 }}>
         index.......................................
       </Text>
